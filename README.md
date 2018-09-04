@@ -7,7 +7,7 @@
  
  navigate to: http://localhost:5000/api/values
  
- make any change to a file (such as Controllers > Values, change a value), save, and refresh the browser, it will automatically rebuild.
+ make any change to a file (such as Controllers > ValuesController, change a value), save, and refresh the browser, it will automatically rebuild.
  
  Want to debug a line? Add a breakpoint, hit F5, and choose the dotnet instance that is running your app from the dropdown.
  
