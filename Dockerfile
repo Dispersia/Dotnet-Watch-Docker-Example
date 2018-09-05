@@ -13,6 +13,4 @@ ENV DOTNET_USE_POLLING_FILE_WATCHER 1
 
 WORKDIR /app
 
-COPY . .
-
 ENTRYPOINT dotnet watch run --urls=http://+:5000
